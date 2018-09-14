@@ -1,0 +1,36 @@
+#rawdata1, #rawdata2, #rawdata3{
+	height:300px;
+}	
+#rawdata4{
+	height:300px;
+}
+
+#rawdatamain{
+	height:300px;
+}
+
+.tit-1{
+font-size: 18px;
+font-weight: 600;
+}
+
+.res-1{
+font-size: 18px;
+}
+
+.sidebar {
+  color: #FFF;
+  position: fixed;
+  width: 220px;
+  white-space: nowrap;
+  overflow: visible;
+}
+
+.main-header {
+  position: fixed;
+  width:100%;
+}
+
+.content {
+  padding-top: 60px;
+}
